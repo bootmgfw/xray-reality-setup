@@ -29,7 +29,7 @@ Designed for Debian/Ubuntu servers. Includes multi-user management via simple CL
 ## ⚡ Quick Install
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/xray-reality-setup/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/bootmgfw/xray-reality-setup/main/install.sh)
 ```
 
 After installation, the connection link and QR-code for the **main user** are printed automatically.
